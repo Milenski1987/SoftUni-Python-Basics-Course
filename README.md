@@ -1,2 +1,2 @@
-# Python-Basics-Homework
-My homeworks from Python basics
+# Python-Basics-Work
+My work in Python basics
