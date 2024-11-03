@@ -4,7 +4,7 @@ My work in Python basics
 
 Contents:
 
-**1. First Steps in Coding**
+**[1. First Steps in Coding](1_first_steps_in_coding)**
    - Lab
    - Exercise
    - More exercises
@@ -42,4 +42,4 @@ Contents:
 
 **10. Regular Exam**
 
-[Link](1_first_steps_in_coding)
+
