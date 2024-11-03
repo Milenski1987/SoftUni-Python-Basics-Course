@@ -1,8 +1,6 @@
-# Python-Basics-Work
-## My work in Python basics
+## In this repository there are my solutions to tasks from the Python Basics course. 
 
-
-# Contents:
+## Contents:
 
 **[1. First Steps in Coding](1_first_steps_in_coding)**
    - Lab
