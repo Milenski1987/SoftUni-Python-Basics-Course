@@ -42,4 +42,4 @@ Contents:
 
 **10. Regular Exam**
 
-[Contribution guidelines for this project]()
+[Link](1_first_steps_in_coding)
