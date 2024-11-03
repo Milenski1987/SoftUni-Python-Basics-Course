@@ -41,3 +41,5 @@ Contents:
 **9. Preliminary Exam**
 
 **10. Regular Exam**
+
+[Contribution guidelines for this project]()
