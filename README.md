@@ -4,7 +4,7 @@ My work in Python basics
 
 Contents:
 
-1. First Steps in Coding
+**1. First Steps in Coding**
    - Lab
    - Exercise
    - More exercises
