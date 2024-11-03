@@ -19,27 +19,27 @@ Contents:
    - Exercise
    - More exercises
      
-**4. For Loops**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[4. For Loops](4_for_loops)**
    - Lab
    - Exercise
    - More exercises
      
-**5. While Loops**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[5. While Loops](5_while_loops)**
    - Lab
    - Exercise
    - More exercises
      
-**6. Nested Loops**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[6. Nested Loops](6_nested_loops)**
    - Lab
    - Exercise
    - More exercise
      
-**7. Drawing Figures**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[7. Drawing Figures](7_drawing_figures)**
 
-**8. Test Exams**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[8. Test Exams](8_test_exams)**
 
-**9. Preliminary Exam**[1. First Steps in Coding](1_first_steps_in_coding)****
+**[9. Preliminary Exam](9_preliminary_exam)**
 
-**10. Regular Exam**
+**[10. Regular Exam](10_regular_exam)**
 
 
