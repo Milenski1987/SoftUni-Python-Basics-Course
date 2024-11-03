@@ -1,6 +1,7 @@
 ## Python Basics 09.2024
 
-In this repository there are my solutions to tasks from the Python Basics course. 
+In this repository there are my solutions to tasks from the Python Basics course.
+This course was my first touch to programming.
 
 ## Contents:
 
