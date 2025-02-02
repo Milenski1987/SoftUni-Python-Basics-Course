@@ -1,34 +1,46 @@
-# Python-Basics-Work
-My work in Python basics
+## Python Basics 09.2024
 
+In this repository there are my solutions to tasks from the Python Basics course in SoftUni.
+This course was my first touch to programming.
 
-Contents:
+## Contents:
 
-1. First Steps in Coding
+**[First Steps in Coding](first_steps_in_coding)**
    - Lab
    - Exercise
    - More exercises
-2. Conditional Statements
+     
+**[Conditional Statements](conditional_statements)**
    - Lab
    - Exercise
    - More exercises
-3. Conditional Statements Advanced
+     
+**[Conditional Satements Advanced](conditional_statements_advanced)**
    - Lab
    - Exercise
    - More exercises
-4. For Loops
+     
+**[For Loops](for_loops)**
    - Lab
    - Exercise
    - More exercises
-5. While Loops
+     
+**[While Loops](while_loops)**
    - Lab
    - Exercise
    - More exercises
-6. Nested Loops
+     
+**[Nested Loops](nested_loops)**
    - Lab
    - Exercise
    - More exercise
-7. Drawing Figures
-8. Test Exams
-9. Preliminary Exam
-10. Regular Exam
+     
+**[Drawing Figures](drawing_figures)**
+
+**[Test Exams](test_exams)**
+
+**[Preliminary Exam](preliminary_exam)**
+
+**[Regular Exam](regular_exam)**
+
+
