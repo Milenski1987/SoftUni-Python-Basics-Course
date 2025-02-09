@@ -9,6 +9,8 @@ In this repository there are my solutions to tasks from the Python Basics course
 This course was my first touch to programming.
 Repository is sorted by topics in ascending order of dificulty.
 
+#### All solutions are provided by [Milen Nikolov](https://www.linkedin.com/in/milen-nikolov-62455034b/)
+
 ## Contents:
 
 **[First Steps in Coding](first_steps_in_coding)**
