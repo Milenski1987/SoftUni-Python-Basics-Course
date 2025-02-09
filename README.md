@@ -5,9 +5,9 @@
 
 ## Python Basics 09.2024
 
-In this repository there are my solutions to tasks from the Python Basics course.
-This course was my first touch to programming.
-Repository is sorted by topics in ascending order of dificulty.
+In this repository, there are my solutions to tasks from the Python Basics course.
+This course was my first touch with programming.
+The repository is sorted by topics in ascending order of difficulty.
 
 #### All solutions are provided by [Milen Nikolov](https://www.linkedin.com/in/milen-nikolov-62455034b/)
 
@@ -25,14 +25,14 @@ Repository is sorted by topics in ascending order of dificulty.
    - Exercise
    - More exercises
      
-**[Conditional Satements Advanced](conditional_statements_advanced)**
+**[Conditional Statements Advanced](conditional_statements_advanced)**
 * nested if-elif-else statements
    - Lab
    - Exercise
    - More exercises
      
 **[For Loops](for_loops)**
-* What are loops and how to use them. How to break loop.
+* What are loops and how to use them? How to break the loop.
    - Lab
    - Exercise
    - More exercises
