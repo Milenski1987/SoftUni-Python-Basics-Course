@@ -12,31 +12,37 @@ Repository is sorted by topics in ascending order of dificulty.
 ## Contents:
 
 **[First Steps in Coding](first_steps_in_coding)**
+* First touch to Programming. Variables and simple operations.
    - Lab
    - Exercise
    - More exercises
      
 **[Conditional Statements](conditional_statements)**
+* if - else statements and logical operators
    - Lab
    - Exercise
    - More exercises
      
 **[Conditional Satements Advanced](conditional_statements_advanced)**
+* nested if-elif-else statements
    - Lab
    - Exercise
    - More exercises
      
 **[For Loops](for_loops)**
+* What are loops and how to use them. How to break loop.
    - Lab
    - Exercise
    - More exercises
      
 **[While Loops](while_loops)**
+* While loops and infinity loop.
    - Lab
    - Exercise
    - More exercises
      
 **[Nested Loops](nested_loops)**
+* Nested loops. How to break nested loops.
    - Lab
    - Exercise
    - More exercise
